@@ -1,0 +1,13 @@
+img#arduino{
+    width: 200px;
+    margin-left: 70px;
+    float: left;
+}
+ul{
+    font-size: 20px;
+    float: left;
+    width: 600px;
+}
+#clear{
+    clear: both;
+}

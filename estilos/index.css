@@ -10,3 +10,6 @@ article{
 .clear{
     clear: both;
 }
+h1+p{
+    color: green;
+}
