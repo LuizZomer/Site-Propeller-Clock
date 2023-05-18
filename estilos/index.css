@@ -1,0 +1,12 @@
+#propeller{
+    width: 700px;
+    float: left;
+}
+
+article{
+    float: left;
+    margin-right: 100px;
+}
+.clear{
+    clear: both;
+}
